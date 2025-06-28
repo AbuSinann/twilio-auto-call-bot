@@ -1,4 +1,4 @@
-![Twilio Auto Call Bot](https://github.com/AbuSinannp/twilio-auto-caller-bot/blob/main/banner.png?raw=true)
+![Twilio Auto Call Bot](https://github.com/AbuSinann/twilio-auto-caller-bot/blob/main/banner.png)
 
 # 📞 Twilio Auto Call Bot
 
