@@ -43,6 +43,7 @@ If you’re on a PC or Git-supported terminal:
 ```bash
 git clone https://github.com/your-username/twilio-auto-call-bot.git
 cd twilio-auto-call-bot
+```
 
 On your phone, download or upload the files manually.
 
