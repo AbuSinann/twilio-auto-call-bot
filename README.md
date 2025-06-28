@@ -50,9 +50,9 @@ On your phone, download or upload the files manually.
 ---
 
 ### 2. Install Dependencie
-
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ### 3. Update Twilio Credentials
