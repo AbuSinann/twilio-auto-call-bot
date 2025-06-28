@@ -69,7 +69,7 @@ customer_service_number = '+1800×××××××'
 account_number = '48761'
 ```
 
-✅ Tip: Never share your credentials publicly. Use .env files in production.
+✅ Tip: Never share your credentials publicly. Use ```.env``` files in production.
 
 ---
 
