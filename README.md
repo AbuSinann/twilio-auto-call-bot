@@ -65,7 +65,7 @@ In ```auto_call_bot.py```, replace the placeholders:
 account_sid = 'YOUR_ACCOUNT_SID'
 auth_token = 'YOUR_AUTH_TOKEN'
 twilio_number = '+YOUR_TWILIO_PHONE_NUMBER'
-customer_service_number = '+1800277××××'
+customer_service_number = '+1800×××××××'
 account_number = '48761'
 ```
 
