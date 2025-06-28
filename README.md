@@ -1,3 +1,5 @@
+![Twilio Auto Call Bot](https://github.com/AbuSinannp/twilio-auto-caller-bot/blob/main/banner.png?raw=true)
+
 # 📞 Twilio Auto Call Bot
 
 This Python automation bot places a scheduled monthly phone call using Twilio's Voice API. It runs continuously and checks every minute for a specific time—**9:02 AM on the last day of each month**—to trigger an outbound voice call with a predefined message. It includes a retry mechanism, detailed logging, and is fully customizable for business use cases like automatic ordering, alerts, or reminders.
