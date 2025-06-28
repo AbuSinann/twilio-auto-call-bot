@@ -105,7 +105,7 @@ Add Telegram/Email notifications for success/failure.
 
 Abu Sinan
 Cybersecurity & Automation Expert
-🔗 [Upwork Profile](https://www.upwork.com/freelancers/abusinan) | [Email](abusinan1523@gmail.com)
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/abusinan)
 
 ---
 
