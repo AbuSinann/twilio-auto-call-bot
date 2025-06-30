@@ -32,7 +32,7 @@ twilio-auto-call-bot/
  ├── auto_call_bot.py       # Main script
  ├── requirements.txt       # Required Python packages
  ├── README.md              # Project documentation
- └── LICENSE (optional)
+ └── LICENSE
 ```
 ---
 
