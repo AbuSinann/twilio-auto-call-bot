@@ -113,7 +113,7 @@ Cybersecurity & Automation Expert
 
 ## 📄 License
 
-MIT License — see ```LICENSE``` file for details.
+MIT License — see [LICENSE](https://github.com/AbuSinann/twilio-auto-caller-bot/blob/f644395cf57fc400e73e468f881635849cf034ac/LICENSE)file for details.
 
 ---
 
