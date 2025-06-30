@@ -43,7 +43,7 @@ twilio-auto-call-bot/
 If you’re on a PC or Git-supported terminal:
 
 ```bash
-git clone https://github.com/your-username/twilio-auto-call-bot.git
+git clone https://github.com/AbuSinann/twilio-auto-call-bot.git
 cd twilio-auto-call-bot
 ```
 
