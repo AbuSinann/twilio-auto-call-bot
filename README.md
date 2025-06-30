@@ -42,7 +42,7 @@ twilio-auto-call-bot/
 
 If you’re on a PC or Git-supported terminal:
 
-```
+```bash
 git clone https://github.com/your-username/twilio-auto-call-bot.git
 cd twilio-auto-call-bot
 ```
@@ -53,7 +53,7 @@ On your phone, download or upload the files manually.
 
 ### 2. Install Dependencie
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -61,9 +61,9 @@ pip install -r requirements.txt
 
 ### 3. Update Twilio Credentials
 
-In ```auto_call_bot.py```, replace the placeholders:
+In `auto_call_bot.py`, replace the placeholders:
 
-```
+```python
 account_sid = 'YOUR_ACCOUNT_SID'
 auth_token = 'YOUR_AUTH_TOKEN'
 twilio_number = '+YOUR_TWILIO_PHONE_NUMBER'
@@ -71,13 +71,13 @@ customer_service_number = '+1800×××××××'
 account_number = '48761'
 ```
 
-✅ Tip: Never share your credentials publicly. Use ```.env``` files in production.
+✅ **Tip:** Never share your credentials publicly. Use `.env` files in production.
 
 ---
 
 ### 4. Run the Script
 
-```
+```bash
 python auto_call_bot.py
 ```
 
@@ -87,26 +87,26 @@ The script runs in an infinite loop, checking every minute for the trigger time.
 
 ## 🛡️ Security Note
 
-Never commit sensitive data (API keys, auth tokens).
+- Never commit sensitive data (API keys, auth tokens).
 
-Add ```.env``` support using ```python-dotenv``` for secure local development.
+- Add `.env` support using `python-dotenv` for secure local development.
 
 ---
 
 ## 📌 Customization Ideas
 
-Change the scheduled time or date logic.
+- Change the scheduled time or date logic.
 
-Use ```client.calls.create(..., url='https://your-server.com/twiml.xml')``` for more complex messages.
+- Use ```client.calls.create(..., url='https://your-server.com/twiml.xml')``` for more complex messages.
 
-Add Telegram/Email notifications for success/failure.
+- Add Telegram/Email notifications for success/failure.
 
 ---
 
 ## 🧑‍💻 Author
 
-Abu Sinan
-Cybersecurity & Automation Expert
+Abu Sinan  
+Cybersecurity & Automation Expert  
 🔗 [Upwork Profile](https://www.upwork.com/freelancers/abusinan)
 
 ---
