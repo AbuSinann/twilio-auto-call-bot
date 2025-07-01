@@ -111,7 +111,7 @@ Cybersecurity & Automation Expert
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusinan)
- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abusinan)
+ [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork&logoColor=black)](https://www.upwork.com/freelancers/abusinan)
 
 ---
 
