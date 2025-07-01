@@ -1,4 +1,4 @@
-![Twilio Auto Call Bot](https://github.com/AbuSinann/twilio-auto-caller-bot/blob/main/banner.png)
+![Twilio Auto Call Bot](https://github.com/abu-sinan/twilio-auto-caller-bot/blob/main/banner.png)
 
 # 📞 Twilio Auto Call Bot
 
@@ -43,7 +43,7 @@ twilio-auto-call-bot/
 If you’re on a PC or Git-supported terminal:
 
 ```bash
-git clone https://github.com/AbuSinann/twilio-auto-call-bot.git
+git clone https://github.com/abu-sinan/twilio-auto-call-bot.git
 cd twilio-auto-call-bot
 ```
 
@@ -113,7 +113,7 @@ Cybersecurity & Automation Expert
 
 ## 📄 License
 
-MIT License — see [LICENSE](https://github.com/AbuSinann/twilio-auto-caller-bot/blob/main/LICENSE) file for details.
+MIT License — see [LICENSE](https://github.com/abu-sinan/twilio-auto-caller-bot/blob/main/LICENSE) file for details.
 
 ---
 
