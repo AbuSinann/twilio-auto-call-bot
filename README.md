@@ -108,9 +108,7 @@ The script runs in an infinite loop, checking every minute for the trigger time.
 Abu Sinan  
 Cybersecurity & Automation Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusinan)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusinan) 
  [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork&logoColor=black)](https://www.upwork.com/freelancers/abusinan)
 
 ---
