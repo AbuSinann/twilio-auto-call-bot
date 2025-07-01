@@ -1,4 +1,4 @@
-![Twilio Auto Call Bot](https://github.com/abu-sinan/twilio-auto-caller-bot/blob/main/banner.png)
+![Twilio Auto Call Bot](https://github.com/abu-sinan/twilio-auto-call-bot/blob/main/banner.png)
 
 # 📞 Twilio Auto Call Bot
 
@@ -113,7 +113,7 @@ Cybersecurity & Automation Expert
 
 ## 📄 License
 
-MIT License — see [LICENSE](https://github.com/abu-sinan/twilio-auto-caller-bot/blob/main/LICENSE) file for details.
+MIT License — see [LICENSE](https://github.com/abu-sinan/twilio-auto-call-bot/blob/main/LICENSE) file for details.
 
 ---
 
